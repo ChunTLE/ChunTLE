@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 -->
 
 ![:mlldxe](https://moe-counter.glitch.me/get/@:ChunTLE?theme=gelbooru) 
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/
