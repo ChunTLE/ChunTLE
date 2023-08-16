@@ -1,5 +1,6 @@
+<!-- 
 ### Hi there 👋
-
+-->
 <!--
 **ChunTLE/ChunTLE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![:mlldxe](https://count.getloli.com/get/@:mlldxe?theme=gelbooru) 
+![:mlldxe](https://moe-counter.glitch.me/get/@:ChunTLE?theme=gelbooru) 
