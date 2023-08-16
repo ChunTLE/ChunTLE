@@ -20,4 +20,3 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChunTLE)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hope+is+always+the+most+beautiful+thing+in+the+world;](https://git.io/typing-svg)
